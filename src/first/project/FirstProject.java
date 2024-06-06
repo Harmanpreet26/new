@@ -11,7 +11,7 @@ package first.project;
 public class FirstProject {
 
     /**
-     * THIS IS THE CHANGED CODE
+     * THIS IS THE CHANGED CODE OF MY ONLINE GIT
      */
     public static void main(String[] args) {
         // TODO code application logic here
