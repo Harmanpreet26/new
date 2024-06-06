@@ -11,7 +11,7 @@ package first.project;
 public class FirstProject {
 
     /**
-     * @param args the command line arguments
+     * THIS IS THE CHANGED CODE
      */
     public static void main(String[] args) {
         // TODO code application logic here
